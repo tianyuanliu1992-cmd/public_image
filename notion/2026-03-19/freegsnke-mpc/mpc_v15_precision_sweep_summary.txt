@@ -1,0 +1,8 @@
+Precision sweep done. Sorted best-first by (failed, diff_max).
+
+eps=5e-05, rho=5.0e+08, failed=True, diff_max=1.295e-02, diff_med=8.068e-03
+eps=1e-05, rho=1.0e+09, failed=True, diff_max=1.368e-02, diff_med=6.509e-03
+eps=1e-04, rho=1.0e+08, failed=True, diff_max=1.382e-02, diff_med=6.669e-03
+
+BEST:
+{'eps': 5e-05, 'rho_slack': 500000000.0, 'N_horizon': 6, 'N_steps': 14, 'feasible_steps': 0, 'failed': True, 'diff_min': 0.00038517217547656164, 'diff_med': 0.00806841743591022, 'diff_max': 0.012948167748234509}
